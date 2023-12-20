@@ -3,4 +3,5 @@ project(noic)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(noic ACOES1MG.cpp)
+add_executable(noic ACOES1MG.cpp
+        COCOCOLA.cpp)

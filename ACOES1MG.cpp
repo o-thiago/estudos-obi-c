@@ -32,7 +32,7 @@ int divide(int maxInvestment, double amountWealth) {
 
 #pragma clang diagnostic pop
 
-int main() {
+int ACOES1MG() {
     int amountWealth = -1;
     int maxInvestment = -1;
 
